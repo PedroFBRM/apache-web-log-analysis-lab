@@ -1,0 +1,59 @@
+[Wed May 06 21:09:17.326888 2026] [mpm_event:notice] [pid 3164:tid 3164] AH00489: Apache/2.4.67 (Debian) configured -- resuming normal operations
+[Wed May 06 21:09:17.326977 2026] [core:notice] [pid 3164:tid 3164] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 06 21:18:31.904142 2026] [negotiation:error] [pid 3168:tid 3209] (2)No such file or directory: [client 10.0.2.5:37954] AH00683: cannot access type map file: /var/www/html/niuWBwAH.var
+[Wed May 06 21:18:33.111659 2026] [core:error] [pid 3165:tid 3190] [client 10.0.2.5:38066] AH10244: invalid URI path (/../../../../../../../../../../../../etc/shadow)
+[Wed May 06 21:18:33.120120 2026] [core:error] [pid 3168:tid 3204] [client 10.0.2.5:38078] AH00135: Invalid method in request DIWHWPJH / HTTP/1.1
+[Wed May 06 21:18:33.121938 2026] [core:error] [pid 3165:tid 3192] [client 10.0.2.5:38082] AH00135: Invalid method in request DEBUG / HTTP/1.1
+[Wed May 06 21:18:33.130492 2026] [core:error] [pid 3168:tid 3208] [client 10.0.2.5:38088] AH00135: Invalid method in request TRACK / HTTP/1.0
+[Wed May 06 21:18:33.132216 2026] [core:error] [pid 3165:tid 3195] [client 10.0.2.5:38100] AH00135: Invalid method in request TRACK / HTTP/1.1
+[Wed May 06 21:18:33.403947 2026] [core:error] [pid 3165:tid 3188] [client 10.0.2.5:38122] AH10244: invalid URI path (/%NETHOOD%/)
+[Wed May 06 21:18:33.711269 2026] [core:error] [pid 3168:tid 3201] [client 10.0.2.5:38158] AH00135: Invalid method in request get / HTTP/1.1
+[Wed May 06 21:18:33.713099 2026] [core:error] [pid 3165:tid 3192] [client 10.0.2.5:38170] AH00135: Invalid method in request INDEX / HTTP/1.1
+[Wed May 06 21:18:33.754526 2026] [core:error] [pid 3168:tid 3201] [client 10.0.2.5:38182] AH10244: invalid URI path (/%a%s%p%d)
+[Wed May 06 21:18:33.815809 2026] [core:error] [pid 3165:tid 3188] [client 10.0.2.5:38192] AH10244: invalid URI path (/../../../../../../../../../boot.ini)
+[Wed May 06 21:18:33.817654 2026] [core:error] [pid 3168:tid 3203] [client 10.0.2.5:38196] AH10244: invalid URI path (/../../../../winnt/repair/sam._)
+[Wed May 06 21:18:33.823030 2026] [core:error] [pid 3165:tid 3193] [client 10.0.2.5:38208] AH10244: invalid URI path (////./../.../boot.ini)
+[Wed May 06 21:18:33.855161 2026] [core:error] [pid 3168:tid 3215] [client 10.0.2.5:38210] AH10244: invalid URI path (/DomainFiles/*//../../../../../../../../../../etc/passwd)
+[Wed May 06 21:18:33.912041 2026] [core:error] [pid 3165:tid 3181] [client 10.0.2.5:38226] AH10244: invalid URI path (/../../../../../../../../../../etc/passwd)
+[Wed May 06 21:18:33.916880 2026] [core:error] [pid 3168:tid 3220] [client 10.0.2.5:38240] AH10244: invalid URI path (/%2E%2E/%2E%2E/%2E%2E/%2E%2E/%2E%2E/windows/win.ini)
+[Wed May 06 21:18:33.920211 2026] [core:error] [pid 3165:tid 3183] [client 10.0.2.5:38250] AH10244: invalid URI path (/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd)
+[Wed May 06 21:18:34.530197 2026] [core:error] [pid 3168:tid 3218] [client 10.0.2.5:38306] AH10244: invalid URI path (/file/../../../../../../../../etc/)
+[Wed May 06 21:18:34.817004 2026] [authz_core:error] [pid 3168:tid 3209] [client 10.0.2.5:38324] AH01630: client denied by server configuration: /var/www/html/server-status
+[Wed May 06 21:18:34.832323 2026] [core:error] [pid 3168:tid 3217] [client 10.0.2.5:38324] AH10244: invalid URI path (/../webserver.ini)
+[Wed May 06 21:18:34.924260 2026] [core:error] [pid 3165:tid 3176] [client 10.0.2.5:38338] AH10244: invalid URI path (/../config.dat)
+[Wed May 06 21:18:36.174359 2026] [authz_core:error] [pid 3165:tid 3196] [client 10.0.2.5:38922] AH01630: client denied by server configuration: /var/www/html/.htpasswd
+[Wed May 06 21:18:36.187329 2026] [authz_core:error] [pid 3165:tid 3179] [client 10.0.2.5:38922] AH01630: client denied by server configuration: /var/www/html/.htaccess
+[Wed May 06 21:18:36.219238 2026] [core:error] [pid 3165:tid 3192] [client 10.0.2.5:38922] AH10244: invalid URI path (////../../data/config/microsrv.cfg)
+[Wed May 06 21:18:36.221277 2026] [core:error] [pid 3168:tid 3213] [client 10.0.2.5:38926] AH10244: invalid URI path (////////../../../../../../etc/passwd)
+[Wed May 06 21:18:36.459408 2026] [negotiation:error] [pid 3165:tid 3183] (2)No such file or directory: [client 10.0.2.5:38932] AH00683: cannot access type map file: /var/www/html/index.html.var
+[Wed May 06 21:18:36.514964 2026] [core:error] [pid 3168:tid 3219] [client 10.0.2.5:38948] AH00135: Invalid method in request SEARCH / HTTP/1.1
+[Wed May 06 21:18:36.517586 2026] [autoindex:error] [pid 3168:tid 3221] [client 10.0.2.5:38952] AH01276: Cannot serve directory /usr/share/apache2/icons/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Wed May 06 21:18:44.233673 2026] [core:error] [pid 3168:tid 3203] [client 10.0.2.5:56200] AH10244: invalid URI path (/sdk/%2E%2E/%2E%2E/%2E%2E/%2E%2E/%2E%2E/%2E%2E/etc/vmware/hostd/vmInventory.xml)
+[Wed May 06 21:18:44.646685 2026] [core:error] [pid 3165:tid 3185] [client 10.0.2.5:56234] AH10244: invalid URI path (/../../windows/dvr2.ini)
+[Wed May 06 21:18:44.648521 2026] [core:error] [pid 3168:tid 3206] [client 10.0.2.5:56238] AH10244: invalid URI path (/htdocs/../../../../../../../../../../../etc/passwd)
+[Wed May 06 21:18:44.672911 2026] [core:error] [pid 3165:tid 3179] [client 10.0.2.5:56246] AH10244: invalid URI path (/help/../../../../../../../../../../../../../../../../etc/shadow)
+[Wed May 06 21:18:47.661652 2026] [core:error] [pid 3168:tid 3200] [client 10.0.2.5:56344] AH10244: invalid URI path (/dana-na/../dana/html5acc/guacamole/../../../../../../etc/passwd?/dana/html5acc/guacamole/)
+[Wed May 06 21:21:25.717557 2026] [authz_core:error] [pid 3168:tid 3198] [client 10.0.2.5:39398] AH01630: client denied by server configuration: /var/www/html/.hta
+[Wed May 06 21:21:25.717948 2026] [authz_core:error] [pid 3168:tid 3199] [client 10.0.2.5:39398] AH01630: client denied by server configuration: /var/www/html/.hta_
+[Wed May 06 21:21:25.718373 2026] [authz_core:error] [pid 3168:tid 3200] [client 10.0.2.5:39398] AH01630: client denied by server configuration: /var/www/html/.htaccess
+[Wed May 06 21:21:25.718818 2026] [authz_core:error] [pid 3168:tid 3201] [client 10.0.2.5:39398] AH01630: client denied by server configuration: /var/www/html/.htaccess_
+[Wed May 06 21:21:25.719190 2026] [authz_core:error] [pid 3168:tid 3202] [client 10.0.2.5:39398] AH01630: client denied by server configuration: /var/www/html/.htpasswd
+[Wed May 06 21:21:25.719561 2026] [authz_core:error] [pid 3168:tid 3203] [client 10.0.2.5:39398] AH01630: client denied by server configuration: /var/www/html/.htpasswd_
+[Wed May 06 21:21:27.850266 2026] [authz_core:error] [pid 3168:tid 3212] [client 10.0.2.5:39760] AH01630: client denied by server configuration: /var/www/html/server-status
+[Wed May 06 21:21:28.534685 2026] [authz_core:error] [pid 3165:tid 3177] [client 10.0.2.5:39834] AH01630: client denied by server configuration: /var/www/html/admin/.hta
+[Wed May 06 21:21:28.535474 2026] [authz_core:error] [pid 3165:tid 3180] [client 10.0.2.5:39834] AH01630: client denied by server configuration: /var/www/html/admin/.hta_
+[Wed May 06 21:21:28.536914 2026] [authz_core:error] [pid 3165:tid 3179] [client 10.0.2.5:39834] AH01630: client denied by server configuration: /var/www/html/admin/.htaccess
+[Wed May 06 21:21:28.537707 2026] [authz_core:error] [pid 3165:tid 3175] [client 10.0.2.5:39834] AH01630: client denied by server configuration: /var/www/html/admin/.htaccess_
+[Wed May 06 21:21:28.538649 2026] [authz_core:error] [pid 3165:tid 3183] [client 10.0.2.5:39834] AH01630: client denied by server configuration: /var/www/html/admin/.htpasswd
+[Wed May 06 21:21:28.539432 2026] [authz_core:error] [pid 3165:tid 3173] [client 10.0.2.5:39834] AH01630: client denied by server configuration: /var/www/html/admin/.htpasswd_
+[Wed May 06 21:21:31.248117 2026] [authz_core:error] [pid 3168:tid 3206] [client 10.0.2.5:35158] AH01630: client denied by server configuration: /var/www/html/login/.hta
+[Wed May 06 21:21:31.248883 2026] [authz_core:error] [pid 3168:tid 3208] [client 10.0.2.5:35158] AH01630: client denied by server configuration: /var/www/html/login/.hta_
+[Wed May 06 21:21:31.249655 2026] [authz_core:error] [pid 3168:tid 3209] [client 10.0.2.5:35158] AH01630: client denied by server configuration: /var/www/html/login/.htaccess
+[Wed May 06 21:21:31.250613 2026] [authz_core:error] [pid 3168:tid 3214] [client 10.0.2.5:35158] AH01630: client denied by server configuration: /var/www/html/login/.htaccess_
+[Wed May 06 21:21:31.251375 2026] [authz_core:error] [pid 3168:tid 3217] [client 10.0.2.5:35158] AH01630: client denied by server configuration: /var/www/html/login/.htpasswd
+[Wed May 06 21:21:31.252721 2026] [authz_core:error] [pid 3168:tid 3201] [client 10.0.2.5:35158] AH01630: client denied by server configuration: /var/www/html/login/.htpasswd_
+[Wed May 06 21:44:00.343903 2026] [mpm_event:notice] [pid 787:tid 787] AH00489: Apache/2.4.67 (Debian) configured -- resuming normal operations
+[Wed May 06 21:44:00.344997 2026] [core:notice] [pid 787:tid 787] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 06 21:44:27.408792 2026] [mpm_event:notice] [pid 787:tid 787] AH00492: caught SIGWINCH, shutting down gracefully
+[Wed May 06 21:44:01.283561 2026] [mpm_event:notice] [pid 784:tid 784] AH00489: Apache/2.4.67 (Debian) configured -- resuming normal operations
+[Wed May 06 21:44:01.284733 2026] [core:notice] [pid 784:tid 784] AH00094: Command line: '/usr/sbin/apache2'
